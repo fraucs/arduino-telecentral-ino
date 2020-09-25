@@ -3,14 +3,15 @@
 
 // SET VAR
 
-int prespomp = 0;
-int sensumi = 0;
-/*int dswpred1 = 0;
-  int dswpred2 = 0;
-  int dswpred3 = 0;
-  int dswpred4 = 0;
-  int dswpred5 = 0;
-  int dswpred6 = 0;*/
+bool prespomp = 0;
+bool sensumi = 0;
+/*bool dswpred1 = 0;
+  bool dswpred2 = 0;
+  bool dswpred3 = 0;
+  bool dswpred4 = 0;
+  bool dswpred5 = 0;
+  bool dswpred6 = 0;*/
+
 
 // SET ETH
 
